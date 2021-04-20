@@ -43,5 +43,7 @@ function hola(language) {
   console.table(mySkills)
 }
 
+// Copy and paste this line in ur console(F12)
 const english = hola("eng");
+// Copia y pega estas lineas en tu consola(F12)
 const español = hola("esp");
