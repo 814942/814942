@@ -3,7 +3,7 @@ function presentation() {
   return {
     name: "Pablo",
     lastName: "Garay",
-    age: 32,
+    age: 35,
     from: "Argentina",
     occupation: "Full Stack Developer" 
   }
@@ -14,14 +14,19 @@ function skills() {
     backEnd: [
       "Node.js",
       "Express",
+      "Nestjs",
       "GraphQL",
       "Sequelize",
-      "Postgres"
+      "typeORM",
+      "Postgres",
+      "mySQL"
     ],
     frontEnd: [
       "HTML",
       "CSS",
       "React",
+      "Nextjs",
+      "Typescript",
       "Redux"
     ]
   }
@@ -43,7 +48,7 @@ function hola(language) {
   console.table(mySkills)
 }
 
-// Copy and paste this line in ur console(F12)
+// Copy and paste this line in ur console(F12) or right-click, select inspect and in the window that opens select console.
 const english = hola("eng");
-// Copia y pega estas lineas en tu consola(F12)
+// Copia y pega estas lineas en tu consola(F12) o haz click con el boton secundario, selecciona inspeccionar y en la ventana que se abre consola.
 const español = hola("esp");
