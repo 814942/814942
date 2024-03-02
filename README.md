@@ -54,4 +54,4 @@ const english = hola("eng");
 const español = hola("esp");
 
 STATS:
-https://github.com/anuraghazra/github-readme-stats
+<img src="https://github.com/anuraghazra/github-readme-stats" width="120" height="120"/>
