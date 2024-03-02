@@ -52,3 +52,6 @@ function hola(language) {
 const english = hola("eng");
 // Copia y pega estas lineas en tu consola(F12) o haz click con el boton secundario, selecciona inspeccionar y en la ventana que se abre consola.
 const español = hola("esp");
+
+STATS:
+https://github.com/anuraghazra/github-readme-stats
