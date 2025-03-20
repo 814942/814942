@@ -1,4 +1,7 @@
 📊 **Tiempo de Código en la última semana**
+
+Las estadísticas mostradas a continuación han sido tomadas directamente desde mi editor de código(IDE) mediante WakaTime. Estos datos reflejan el tiempo que paso semanalmente programando en mi IDE, distribuidos por lenguajes, editores y proyectos en los que he trabajado recientemente.
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2048%20mins-blue)
 
