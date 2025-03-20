@@ -1,54 +1,37 @@
-``` js
-function presentation() {
-  return {
-    name: "Pablo",
-    lastName: "Garay",
-    age: 35,
-    from: "Argentina",
-    occupation: "Full Stack Developer" 
-  }
-}
+📊 **Tiempo de Código en la última semana**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-function skills() {
-  return {
-    backEnd: [
-      "Node.js",
-      "Express",
-      "Nestjs",
-      "GraphQL",
-      "Sequelize",
-      "typeORM",
-      "Postgres",
-      "mySQL"
-    ],
-    frontEnd: [
-      "HTML",
-      "CSS",
-      "React",
-      "Nextjs",
-      "Typescript",
-      "Redux"
-    ]
-  }
-}
+## 👾 Hey, soy Pablo Garay  
+### 🚀 Backend Developer | NestJS | PostgreSQL | Docker
 
-function hobbies() {
-  return "🎮 gammer, 🎥 cinefilo, 🏍️ motorcyclist";
-}
+Soy un desarrollador backend SSR con años de experiencia construyendo APIs escalables y eficientes. Trabajo principalmente con **NestJS, TypeScript, Sequelize y PostgreSQL**. También tengo experiencia en **React y Strapi 5**. Actualmente estudio la **Tecnicatura Universitaria en Programación (TUP) en la UTN** de manera virtual.  
 
-function hola(language) {
-  let me = presentation();
-  let mySkills = skills();
-  let myHobbies = hobbies();
-  
-  language === "eng" 
-  ? console.log(`Hello there 😀 my name is ${me.name} ${me.lastName}, i´m ${me.age} years old, i´m from ${me.from} and i´m ${me.occupation}. My hobbies are: ${myHobbies}. Some of my skills are: `)
-  : console.log(`Hola 😀 mi nombre es ${me.name} ${me.lastName}, tengo ${me.age} años, soy de ${me.from} y soy ${me.occupation}. Mis hobbies son: ${myHobbies}. Algunas de mis habilidades son: `);
-  
-  console.table(mySkills)
-}
+### 💾 Stack Tecnológico
 
-// Copy and paste this line in ur console(F12) or right-click, select inspect and in the window that opens select console.
-const english = hola("eng");
-// Copia y pega estas lineas en tu consola(F12) o haz click con el boton secundario, selecciona inspeccionar y en la ventana que se abre consola.
-const español = hola("esp");
+🖥 **Backend:** NestJS, Express, TypeScript, Sequelize, TypeORM, PostgreSQL, MySQL  
+🎨 **Frontend:** React, Next.js, Redux, TypeScript, HTML, CSS  
+📦 **Infraestructura:** Docker, DigitalOcean, GitLab CI/CD  
+🔐 **Autenticación:** JWT, Autorización basada en roles  
+⚡ **Extras:** Strapi 5, Swagger, Moment.js, PostGIS  
+
+---
+
+### 🎮 Sobre mí
+
+- 💻 Apasionado por las **APIs eficientes y escalables**.  
+- 🎓 Estudiante de la UTN, organizando mi tiempo entre el estudio y el desarrollo.  
+- 📍 Buscando oportunidades en **Córdoba, Argentina**.  
+- 🎥 Amante del cine, los videojuegos y las motos.  
+
+---
+
+### 📬 Contacto
+📧 [Email](mailto:pablo.garay.dev@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/pablo-garay-dev/)  
+🐙 [GitHub](https://github.com/814942)  
+
+---
+
+![Pixel-art Dev](https://via.placeholder.com/400)  
+*(Imagen representativa de un desarrollador pixel-art, por definir).*
