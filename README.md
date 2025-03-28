@@ -71,8 +71,3 @@ Soy un desarrollador backend SSR con años de experiencia construyendo APIs esca
 📧 [Email](mailto:pablo.garay.dev@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/pablo-garay-dev/)  
 🐙 [GitHub](https://github.com/814942)  
-
----
-
-![Pixel-art Dev](https://via.placeholder.com/400)  
-*(Imagen representativa de un desarrollador pixel-art, por definir).*
