@@ -3,7 +3,7 @@
 Las estadísticas mostradas a continuación han sido tomadas directamente desde mi editor de código(IDE) mediante WakaTime. Estos datos reflejan el tiempo que paso semanalmente programando en mi IDE, distribuidos por lenguajes, editores y proyectos en los que he trabajado recientemente.
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.88%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.88%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -36,7 +36,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/01/2026 00:25:59 UTC
+ Last Updated on 12/01/2026 00:25:04 UTC
 <!--END_SECTION:waka-->
 
 ## 👾 Hey, soy Pablo Garay  
