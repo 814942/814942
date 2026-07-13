@@ -32,15 +32,15 @@ Sunday                   1342 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-TypeScript               11 hrs 40 mins      ██████████████░░░░░░░░░░░   54.55 % 
-Markdown                 3 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-YAML                     3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Other                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-JSON                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Typst                    2 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   26.46 % 
+YAML                     1 hr 46 mins        ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
+Markdown                 1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+TypeScript               1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Other                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
 ```
 
 
- Last Updated on 06/07/2026 00:45:04 UTC
+ Last Updated on 13/07/2026 00:39:19 UTC
 <!--END_SECTION:waka-->
 
 ## 👾 Hey, soy Pablo Garay  
