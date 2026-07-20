@@ -8,18 +8,18 @@ Las estadísticas mostradas a continuación han sido tomadas directamente desde 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1575 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-🌆 Daytime                3827 commits        ██████████░░░░░░░░░░░░░░░   41.50 % 
-🌃 Evening                3819 commits        ██████████░░░░░░░░░░░░░░░   41.41 % 
+🌞 Morning                1576 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+🌆 Daytime                3828 commits        ██████████░░░░░░░░░░░░░░░   41.50 % 
+🌃 Evening                3820 commits        ██████████░░░░░░░░░░░░░░░   41.41 % 
 🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   862 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-Tuesday                  1100 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Monday                   862 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Tuesday                  1101 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
 Wednesday                1365 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Thursday                 1805 commits        █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+Thursday                 1807 commits        █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
 Friday                   1392 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
 Saturday                 1356 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
 Sunday                   1342 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
@@ -32,15 +32,15 @@ Sunday                   1342 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Typst                    2 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   26.46 % 
-YAML                     1 hr 46 mins        ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
-Markdown                 1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
-TypeScript               1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Other                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+TypeScript               3 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   32.18 % 
+YAML                     1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Markdown                 1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Typst                    1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Bash                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
 ```
 
 
- Last Updated on 13/07/2026 00:39:19 UTC
+ Last Updated on 20/07/2026 03:03:51 UTC
 <!--END_SECTION:waka-->
 
 ## 👾 Hey, soy Pablo Garay  
