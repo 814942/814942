@@ -32,15 +32,41 @@ Sunday                   1342 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Markdown                 3 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   37.71 % 
-JavaScript               1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-TypeScript               1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-JSON                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-YAML                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+TypeScript               2 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   29.53 % 
+Markdown                 1 hr 54 mins        ███████░░░░░░░░░░░░░░░░░░   26.31 % 
+YAML                     1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Other                    1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 6 hrs 47 mins (93.32%)
+
+✍️ 2,829 lines written by AI, 8 lines written by hand (99.72% AI-written)
+
+🔤 2,144,358 Input Tokens, 141,787 Output Tokens
+
+💵 $8.55 Estimated AI Cost This Week
+
+🧠 30 AI Sessions, 98 AI Prompts
+
+Deepseek                 2,196 lines         ███████████████████░░░░░░   77.22 % 
+Sonnet                   638 lines           ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
+Mimo                     10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.72% of written lines came from AI
+📚 Verbose Prompter — average 6,173 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.52% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/07/2026 00:40:20 UTC
+ Last Updated on 03/08/2026 00:39:07 UTC
 <!--END_SECTION:waka-->
 
 ## 👾 Hey, soy Pablo Garay  
