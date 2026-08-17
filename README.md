@@ -32,41 +32,40 @@ Sunday                   1342 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-TypeScript               7 hrs 39 mins       ███████████████████░░░░░░   74.69 % 
-Markdown                 1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-YAML                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+TypeScript               4 hrs 36 mins       █████████████░░░░░░░░░░░░   50.68 % 
+Markdown                 2 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   31.00 % 
+JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 57 mins (97.17%)
+⏱ AI Coding Time: 8 hrs 37 mins (94.76%)
 
-✍️ 5,594 lines written by AI, 12 lines written by hand (99.79% AI-written)
+✍️ 1,411 lines written by AI, 5 lines written by hand (99.65% AI-written)
 
-🔤 2,719,549 Input Tokens, 231,095 Output Tokens
+🔤 3,863,247 Input Tokens, 200,720 Output Tokens
 
-💵 $12.35 Estimated AI Cost This Week
+💵 $147.64 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 81 AI Prompts
+🧠 24 AI Sessions, 87 AI Prompts
 
-Deepseek                 4,747 lines         █████████████████████░░░░   83.27 % 
-Sonnet                   775 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-GPT                      99 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Mimo                     80 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Sonnet                   713 lines           ████████████░░░░░░░░░░░░░   46.78 % 
+M                        606 lines           ██████████░░░░░░░░░░░░░░░   39.76 % 
+Deepseek                 205 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.79% of written lines came from AI
-📚 Verbose Prompter — average 4,343 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.24% of changed lines were hand-edited
+🤖 AI-Driven — 99.65% of written lines came from AI
+📚 Verbose Prompter — average 1,553 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.33% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/08/2026 00:22:39 UTC
+ Last Updated on 17/08/2026 00:15:26 UTC
 <!--END_SECTION:waka-->
 
 ## 👾 Hey, soy Pablo Garay  
