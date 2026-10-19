@@ -3,26 +3,26 @@
 Las estadísticas mostradas a continuación han sido tomadas directamente desde mi editor de código(IDE) mediante WakaTime. Estos datos reflejan el tiempo que paso semanalmente programando en mi IDE, distribuidos por lenguajes, editores y proyectos en los que he trabajado recientemente.
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.27%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.52%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5653 commits        █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
-🌆 Daytime                10914 commits       ███████████░░░░░░░░░░░░░░   42.45 % 
-🌃 Evening                8974 commits        █████████░░░░░░░░░░░░░░░░   34.90 % 
-🌙 Night                  171 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+🌞 Morning                11900 commits       ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+🌆 Daytime                19343 commits       ██████████░░░░░░░░░░░░░░░   39.01 % 
+🌃 Evening                17515 commits       █████████░░░░░░░░░░░░░░░░   35.32 % 
+🌙 Night                  829 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   3756 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Tuesday                  4196 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Wednesday                5617 commits        █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
-Thursday                 5437 commits        █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-Friday                   3851 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-Saturday                 1481 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-Sunday                   1374 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Monday                   6740 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Tuesday                  8158 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+Wednesday                10005 commits       █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+Thursday                 10760 commits       █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
+Friday                   8173 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Saturday                 2667 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Sunday                   3084 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
 ```
 
 
@@ -32,41 +32,41 @@ Sunday                   1374 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Markdown                 19 hrs 10 mins      ██████████░░░░░░░░░░░░░░░   40.09 % 
-JavaScript               10 hrs 55 mins      ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
-Other                    10 hrs 1 min        █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
-Bash                     2 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-JSON                     2 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Markdown                 13 hrs 38 mins      ████████████░░░░░░░░░░░░░   48.00 % 
+Other                    7 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   27.07 % 
+JavaScript               3 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Bash                     2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 hrs 10 mins (98.62%)
+⏱ AI Coding Time: 27 hrs 57 mins (98.38%)
 
-✍️ 7,648 lines written by AI, 3 lines written by hand (99.96% AI-written)
+✍️ 7,789 lines written by AI, 2 lines written by hand (99.97% AI-written)
 
-🔤 35,346,681 Input Tokens, 3,291,630 Output Tokens
+🔤 30,267,605 Input Tokens, 1,828,625 Output Tokens
 
-💵 $533.63 Estimated AI Cost This Week
+💵 $410.25 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 301 AI Prompts
+🧠 27 AI Sessions, 250 AI Prompts
 
-Opus                     5,495 lines         ██████████████████░░░░░░░   71.13 % 
-Sonnet                   1,471 lines         █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-Fable                    759 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     4,185 lines         █████████████░░░░░░░░░░░░   51.32 % 
+Sonnet                   2,103 lines         ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
+Fable                    1,867 lines         ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
 MiMo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 3,567 characters per prompt
+🤖 AI-Driven — 99.97% of written lines came from AI
+📚 Verbose Prompter — average 4,427 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.05% of changed lines were hand-edited
+🚀 High AI Trust — 0.06% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/10/2026 00:42:33 UTC
+ Last Updated on 19/10/2026 00:41:14 UTC
 <!--END_SECTION:waka-->
 
 ## 👾 Hey, soy Pablo Garay  
